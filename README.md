@@ -55,20 +55,6 @@ python -m venv venv
 venv\Scripts\activate
 ```
 
-### Windows — PowerShell
-
-```powershell
-venv\Scripts\Activate.ps1
-```
-
-If the virtual environment is activated successfully, `(venv)` will appear at the beginning of your terminal prompt.
-
-Example:
-
-```text
-(venv) C:\project\backend-vae-app>
-```
-
 ## 4. Install Dependencies
 
 Make sure the virtual environment is active, then install the required Python packages:
