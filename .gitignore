@@ -1,0 +1,6 @@
+/venv
+models/vae_gamelan_final_2.pth
+models/vae_gamelan_final_3.pth
+models/vae_gamelan_final_4.pth
+models/vae_gamelan_final.pth
+models/vae_gamelan_final_lord.pth
