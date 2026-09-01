@@ -1,4 +1,4 @@
-# VAE Audio Reconstruction Backend
+# ReyongSynth : Backend
 
 Backend API for **audio preprocessing, log-Mel spectrogram extraction, VAE reconstruction, audio reconstruction**, and reconstruction metric calculation using **Python, Flask, and PyTorch**.
 
